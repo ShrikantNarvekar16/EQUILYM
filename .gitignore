@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+.DS_Store
+outputs/*
+!outputs/.gitkeep
+!outputs/sample_insights.json
